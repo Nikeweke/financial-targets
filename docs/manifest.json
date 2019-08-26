@@ -1,6 +1,6 @@
 {
-  "name": "financial-targets",
-  "short_name": "financial-targets",
+  "name": "Financial targets",
+  "short_name": "FT",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",

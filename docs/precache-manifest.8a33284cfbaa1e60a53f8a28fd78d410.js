@@ -16,16 +16,12 @@ self.__precacheManifest = [
     "url": "/financial-targets/css/chunk-vendors.95574c8f.css"
   },
   {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/financial-targets/fonts/outline-icons.cd6c777f.woff2"
-  },
-  {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/financial-targets/fonts/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "9c74e172f87984c48ddf5c8108cabe67",
-    "url": "/financial-targets/img/flags.9c74e172.png"
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/financial-targets/fonts/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
@@ -36,6 +32,10 @@ self.__precacheManifest = [
     "url": "/financial-targets/fonts/outline-icons.ad97afd3.ttf"
   },
   {
+    "revision": "9c74e172f87984c48ddf5c8108cabe67",
+    "url": "/financial-targets/img/flags.9c74e172.png"
+  },
+  {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
     "url": "/financial-targets/fonts/icons.0ab54153.woff2"
   },
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/financial-targets/fonts/icons.faff9214.woff"
   },
   {
-    "revision": "8ac1f472c178586ce30b",
-    "url": "/financial-targets/js/app.0f4d0c0b.js"
+    "revision": "f070f4b64bebaf188a3e",
+    "url": "/financial-targets/js/app.6f84f85d.js"
   },
   {
     "revision": "49585ab4c459db2cbb81",
@@ -56,20 +56,20 @@ self.__precacheManifest = [
     "url": "/financial-targets/fonts/icons.b87b9ba5.ttf"
   },
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "/financial-targets/fonts/icons.8e3c7f55.eot"
-  },
-  {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
     "url": "/financial-targets/fonts/brand-icons.13db00b7.eot"
   },
   {
-    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
-    "url": "/financial-targets/fonts/brand-icons.c5ebe0b3.ttf"
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "/financial-targets/fonts/icons.8e3c7f55.eot"
   },
   {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
     "url": "/financial-targets/img/outline-icons.82f60bd0.svg"
+  },
+  {
+    "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
+    "url": "/financial-targets/fonts/brand-icons.c5ebe0b3.ttf"
   },
   {
     "revision": "962a1bf31c081691065fe333d9fa8105",
@@ -80,11 +80,11 @@ self.__precacheManifest = [
     "url": "/financial-targets/img/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "a89bdee7fe23d91c8fd69187e98c287a",
+    "revision": "4db0f12ecdca3a9612bb76e5792a82ee",
     "url": "/financial-targets/index.html"
   },
   {
-    "revision": "8ac1f472c178586ce30b",
+    "revision": "f070f4b64bebaf188a3e",
     "url": "/financial-targets/css/app.2036c4bf.css"
   }
 ];
