@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/financial-targets/precache-manifest.b0aeccda541eabc7ee24893253381e1c.js"
+  "/financial-targets/precache-manifest.9df8396111619b05834946de9579c227.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "financial-targets"});
