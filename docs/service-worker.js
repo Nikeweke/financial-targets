@@ -14,10 +14,13 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/financial-targets/precache-manifest.06d638389d678a760bfda7b24f049834.js"
+  "/financial-targets/precache-manifest.04bb90972867f4c54b0722637fd6f123.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "financial-targets"});
+
+workbox.skipWaiting();
+workbox.clientsClaim();
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
